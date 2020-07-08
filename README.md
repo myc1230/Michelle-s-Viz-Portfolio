@@ -9,5 +9,4 @@ From this course, I hope to learn how to take the often immense amount of data w
 Here is where all my future data visualization will go. 
 Come back to see the updates!
 ## Links
-Link to the published web site: 
-(https://myc1230.github.io/Michelle-s-Viz-Portfolio/) 
+Link to the published web site: https://myc1230.github.io/Michelle-s-Viz-Portfolio/ 
