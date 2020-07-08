@@ -1,4 +1,3 @@
-# Michelle's DataViz Portfolio
 ## About Me
 Hi there! Thanks for visiting my public portfolio for the Telling Stories with Data class at CMU! 
 My name is Michelle, and am now a fourth year part time student in the MSIT program, with a focus in business intelligence and data analytics. I took some time off from school but hope to complete my degree by May 2021!
