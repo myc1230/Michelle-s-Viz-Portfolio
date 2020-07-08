@@ -7,7 +7,7 @@ Outside of school, I am a product owner at a healthcare tech company. I hope to 
 From this course, I hope to learn how to take the often immense amount of data we have and turn them into easily consumable visual information. We are in a data rich but information poor world. Even when we do have information, it can often be difficult to comprehend. I also would like to create more visually appealling graphics that properly uses color to convey the point I'm trying to make based on the data available. In the past, I've only used excel and didn't always create the most insightful or pretty graphics. 
 ## Portfolio
 Here is where all my future data visualization will go. 
-Come back to see the updates!
-
+/Come back to see the updates!
+## Links
 Link to the published web site: 
 (https://myc1230.github.io/Michelle-s-Viz-Portfolio/) 
