@@ -5,9 +5,9 @@
 [Link to article:] https://www.nytimes.com/interactive/2018/10/05/opinion/midterm-election-voter-turnout-photo-id.html
 
 Data Visualization being critiqued is the table under "Federal Voting Laws Around the world" 
-
+I chose this visualization because it seemed relevant to the current time as we are approaching election month. In addition, I really liked how the author explained the different groups of voters and how the laws affected them in the article. This particular graphic didn't seem to fall in line with her other designs, so I wanted to redesign it. 
 ## Redesign process
-After reading the article, whose focus was on explaining why voter turnout is low, I wanted to better understand the message presented by the "Federal Voting Laws Around the World" table. It is understandable that the writer is trying to show how the US compare to the rest of the world. However, there is no clear grouping of the handful of countries provided, and each had different laws, those it is difficult to compare amongst them. Therefore I started by redesign to take out the extraneous information of the laws, as it is likely not exhautive factors for influencing voter turn out, and given the differences among the country, it doesn't allow easy comparsion
+After reading the article, whose focus was on explaining why voter turnout is low, I wanted to better understand the message presented by the "Federal Voting Laws Around the World" table. It is understandable that the writer is trying to show how the US compare to the rest of the world. However, there is no clear grouping of the handful of countries provided, and each had different laws, those it is difficult to compare amongst them. Therefore I started by redesign to take out the extraneous information of the laws, as it is likely not exhautive factors for influencing voter turn out, and given the differences among the country, it doesn't allow easy comparsion. 
 ### Wireframe 
 This wireframe was the output. I wanted a simple scatter plot to show the voter turn out of various countries and highlight where the US fall. I wanted to keep the graph simple and minimize unnecessary information. By showing the countries by ranking by voter turn out, this allows an easy comparison of where the US falls on that skill. 
 ### User Feedback
@@ -66,4 +66,12 @@ To help clarify the message, I made the following changes:
 
 Below is the outcome: 
 
-## Redesigned Visualization 
+#### Redesigned Visualization 
+<div class='tableauPlaceholder' id='viz1595460087286' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vo&#47;VoterTurnout1&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='VoterTurnout1&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vo&#47;VoterTurnout1&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    
+var divElement = document.getElementById('viz1595460087286');                    
+var vizElement = divElement.getElementsByTagName('object')[0];                    
+vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+var scriptElement = document.createElement('script');                   
+scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                   
+vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
