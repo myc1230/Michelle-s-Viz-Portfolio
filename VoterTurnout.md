@@ -5,15 +5,18 @@
 
 ![FederalLaw](/Screen Shot 2020-07-22 at 5.24.15 PM.png)
 
-I chose this visualization because it seemed relevant as we are approaching election month. In addition, I really liked how the author explained the different groups of voters and how the laws affected them in the article. This particular graphic didn't seem to fall in line with her other designs, so I wanted to redesign it. 
+I chose this visualization because it seemed relevant as we are approaching election month. In addition, I really liked how the author explained the different groups of voters and how the laws affected them in the [article](https://www.nytimes.com/interactive/2018/10/05/opinion/midterm-election-voter-turnout-photo-id.html). This particular graphic didn't seem to fall in line with her other designs, so I wanted to redesign it. 
 ## Redesign process
 After reading the article, whose focus was on explaining why voter turnout is low, I wanted to better understand the message presented by the "Federal Voting Laws Around the World" table. It is understandable that the writer is trying to show how the US compare to the rest of the world. However, there is no clear grouping of the handful of countries provided, and each had different laws. Thus it is difficult to compare amongst them. Therefore I started the redesign by taking out the extraneous information of the laws, as it is likely not exhaustive factors for influencing voter turnout and given the differences amoung the country, it doesn't allow for easy comparsion. 
 ### Wireframe 
-This wireframe was the output. I chose a simple scatter plot to show the distribution of voter turnout of various countries and highlight where the US fall. I wanted to keep the graph simple and minimize unnecessary information. By showing the countries ranked by voter turnout, this allows an easy comparison of where the US falls on that scale. 
+This wireframe was the output. 
 
 <img src="Voter Turnout Wirefame.jpg" width="350">
+
+I chose a simple scatter plot to show the distribution of voter turnout of various countries and highlight where the US fall. I wanted to keep the graph simple and minimize unnecessary information. By showing the countries ranked by voter turnout, this allows an easy comparison of where the US falls on that scale. 
+
 ### User Feedback
-I interviewed two individuals to gather their thoughts of the wireframe. For the interview process, I started by explaining the assignment but did not give them any context or information on the graph itself. To prevent biasing their answer or distrupting their thought process, I asked them to talk me through their thoughts as they viewed the wireframe for the first time.  Then I followed up with any questions that wasn't touched upon during their initial feedback. 
+I interviewed two individuals to gather their thoughts of the wireframe. For the interview process, I started by explaining the assignment but did not give them any context or information on the graph itself. To prevent biasing their answer or disrupting their thought process, I asked them to talk me through their thoughts as they viewed the wireframe for the first time.  Then I followed up with any questions that wasn't touched upon during their initial feedback. 
 
 #### User 1 Thought Process
 The first user started by reading the title to understand the text, then went to read the y axis and the x axis. 
@@ -53,16 +56,18 @@ He thought we could include some voter laws in the graph. (Interestingly enough,
 He thought we should group the data in some way, such as a color coded bar chart cluster. That by showing similar countries, we can better understand how the US compare. He suggested grouping by voting policy. 
 
 #### Overall feedback
-The two users both shared similar feedback on the confusing nature of the x axis. In an attempt to keep things simple and clean, I used a three letter code for the countries rather than the full name. I realized I was swayed by the country labels we've see in class, I didn't think that using three letters may be confusing for an end user. 
+The two users both shared similar feedback on the confusing nature of the x axis. In an attempt to keep things simple and clean, I used a three letter code for the countries rather than the full name. I realized I was swayed by the country labels we've seen in class, I didn't think that using three letters may be confusing for an everyday reader. 
 Both user showed some confusion over the message the graph is trying to tell. They can understand US is the important variable, but they don't understand why I was showing that. 
 
 To help clarify the message, I made the following changes: 
 
-- using the full country name and election year as the x-axis to clarify the country and explain the type of election
+- I used the full country name and election year as the x-axis to clarify the country and explain the type of election
 
-- using a bar chart instead of a scatter plot for greater readility. I was worried about having too many bars in one chart, but thought I could keep it clear by minimizing color changes. 
+- I used a bar chart instead of a scatter plot for greater readility. I was worried about having too many bars in one chart, but thought I could keep it clear by minimizing color changes.
 
-- I grouped the countries by looking at countries with similar federal voting laws as the US for greater comparability. The orginal table showed 4 voter laws: compulsory voting, registration linked to national records, door to door registration, and weekend/holiday voting. The US didn't have any of those laws. No other country had the same lack of 4 laws as the US, so I expanded my selection of countries to include those with a maximum of one of the law (i.e. 3 "no"). 
+- I added a clearer title to explain the story I am trying to tell
+
+- I grouped the countries by looking at countries with similar federal voting laws as the US for greater comparability. The orginal table showed 4 voter laws: compulsory voting, registration linked to national records, door to door registration, and weekend/holiday voting. The US didn't have any of those laws. No other country had the same lack of 4 laws as the US, so I expanded my selection of countries to include those with a maximum of one of the law (i.e. 3 "no"). This results in a group of the most comparable countries from the list provided. 
 
 Below is the outcome: 
 
@@ -82,4 +87,4 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 
 By looking at this smaller, but more comparable sampling of countries, the level of US turnout doesn't look as bad. While the US voter turnout is still on the lower end, it isn't as different from the majority of countries. If we consider Denmark an outlier, the US turnout is only 13% different than the highest voter turnout from Germany. Whereas, if we were looking at the orginal table, none of the high turnout countries appear to be an outlier, in which case the highest voter turnout is Belguim at 87.2%, which is a difference of almost 32%. 
 
-This grouping of the countries present a more comparable grouping of countries, to more clearerly show how the US compare to the rest. 
+This grouping of the countries present a more comparable grouping of countries, to more clearerly show how the US compare to other countries with similar voting laws. 
