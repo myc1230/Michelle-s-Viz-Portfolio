@@ -1,11 +1,11 @@
 [Return Home](/README.md)
 
-# Understanding Voter Turnout
+# Understanding Voter Turnout 12
 ## Orginal Article
 [Link to article:] https://www.nytimes.com/interactive/2018/10/05/opinion/midterm-election-voter-turnout-photo-id.html
 
 Data Visualization being critiqued is the table under "Federal Voting Laws Around the world" 
-![FederalLaw](/https://github.com/myc1230/Michelle-s-Viz-Portfolio/blob/master/Screen%20Shot%202020-07-22%20at%205.24.15%20PM.png)
+![FederalLaw](https://github.com/myc1230/Michelle-s-Viz-Portfolio/blob/master/Screen%20Shot%202020-07-22%20at%205.24.15%20PM.png)
 I chose this visualization because it seemed relevant to the current time as we are approaching election month. In addition, I really liked how the author explained the different groups of voters and how the laws affected them in the article. This particular graphic didn't seem to fall in line with her other designs, so I wanted to redesign it. 
 ## Redesign process
 After reading the article, whose focus was on explaining why voter turnout is low, I wanted to better understand the message presented by the "Federal Voting Laws Around the World" table. It is understandable that the writer is trying to show how the US compare to the rest of the world. However, there is no clear grouping of the handful of countries provided, and each had different laws, those it is difficult to compare amongst them. Therefore I started by redesign to take out the extraneous information of the laws, as it is likely not exhautive factors for influencing voter turn out, and given the differences among the country, it doesn't allow easy comparsion. 
