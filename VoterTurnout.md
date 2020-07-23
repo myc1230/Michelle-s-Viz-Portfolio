@@ -5,8 +5,7 @@
 [Link to article:] https://www.nytimes.com/interactive/2018/10/05/opinion/midterm-election-voter-turnout-photo-id.html
 
 Data Visualization being critiqued is the table under "Federal Voting Laws Around the world" 
-![FederalLaw]
-(https://github.com/myc1230/Michelle-s-Viz-Portfolio/blob/master/Screen%20Shot%202020-07-22%20at%205.24.15%20PM.png)
+![FederalLaw](/Screen Shot 2020-07-22 at 5.24.15 PM.png)
 
 I chose this visualization because it seemed relevant to the current time as we are approaching election month. In addition, I really liked how the author explained the different groups of voters and how the laws affected them in the article. This particular graphic didn't seem to fall in line with her other designs, so I wanted to redesign it. 
 ## Redesign process
