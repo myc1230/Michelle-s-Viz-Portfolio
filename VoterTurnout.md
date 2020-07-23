@@ -11,7 +11,7 @@ I chose this visualization because it seemed relevant to the current time as we 
 After reading the article, whose focus was on explaining why voter turnout is low, I wanted to better understand the message presented by the "Federal Voting Laws Around the World" table. It is understandable that the writer is trying to show how the US compare to the rest of the world. However, there is no clear grouping of the handful of countries provided, and each had different laws, those it is difficult to compare amongst them. Therefore I started by redesign to take out the extraneous information of the laws, as it is likely not exhautive factors for influencing voter turn out, and given the differences among the country, it doesn't allow easy comparsion. 
 ### Wireframe 
 This wireframe was the output. I wanted a simple scatter plot to show the voter turn out of various countries and highlight where the US fall. I wanted to keep the graph simple and minimize unnecessary information. By showing the countries by ranking by voter turn out, this allows an easy comparison of where the US falls on that skill. 
-![Wireframe](Voter Turnout Wireframe.jpg)
+![Wireframe](/images/Voter Turnout Wireframe.jpg)
 ### User Feedback
 I interviewed two individuals to gather their thoughts of the wireframe. For the interview process, I started by explaining the assignment but did not give them any context or information on the graph itself. To prevent biasing their answer or distrupting their thought process, I asked them to talk me through their thoughts as they viewed the wireframe for the first time.  Then I followed up with any questions that wasn't touched upon during their initial feedback. 
 
