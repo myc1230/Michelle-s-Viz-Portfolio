@@ -1,8 +1,7 @@
 [Return Home](/README.md)
 
 # Understanding Voter Turnout 16
-## Orginal Article
-[Link to article](https://www.nytimes.com/interactive/2018/10/05/opinion/midterm-election-voter-turnout-photo-id.html)
+## [Orginal Article](https://www.nytimes.com/interactive/2018/10/05/opinion/midterm-election-voter-turnout-photo-id.html)
 
 Data Visualization being critiqued is the table under "Federal Voting Laws Around the world" 
 ![FederalLaw](/Screen Shot 2020-07-22 at 5.24.15 PM.png)
