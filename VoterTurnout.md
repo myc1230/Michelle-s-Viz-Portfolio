@@ -13,7 +13,7 @@ This wireframe was the output.
 
 <img src="Voter Turnout Wirefame.jpg" width="350">
 
-I chose a simple scatter plot to show the distribution of voter turnout of various countries and highlight where the US fall. I wanted to keep the graph simple and minimize unnecessary information. By showing the countries ranked by voter turnout, this allows an easy comparison of where the US falls on that scale. 
+After evaluting the orginal image, I thought it ranked low on usefulness since it didn't communicate useful information. Therefore, I chose a simple scatter plot to show the distribution of voter turnout of various countries and highlight where the US fall to focus on the important information. I wanted to keep the graph simple and minimize unnecessary information. By showing the countries ranked by voter turnout, this allows an easy comparison of where the US falls on that scale. 
 
 ### User Feedback
 I interviewed two individuals to gather their thoughts of the wireframe. For the interview process, I started by explaining the assignment but did not give them any context or information on the graph itself. To prevent biasing their answer or disrupting their thought process, I asked them to talk me through their thoughts as they viewed the wireframe for the first time.  Then I followed up with any questions that wasn't touched upon during their initial feedback. 
@@ -67,7 +67,7 @@ To help clarify the message, I made the following changes:
 
 - I added a clearer title to explain the story I am trying to tell
 
-- I grouped the countries by looking at countries with similar federal voting laws as the US for greater comparability. The orginal table showed 4 voter laws: compulsory voting, registration linked to national records, door to door registration, and weekend/holiday voting. The US didn't have any of those laws. No other country had the same lack of 4 laws as the US, so I expanded my selection of countries to include those with a maximum of one of the law (i.e. 3 "no"). This results in a group of the most comparable countries from the list provided. 
+- I grouped the countries by looking at countries with similar federal voting laws as the US for greater comparability. The orginal table showed 4 voter laws: compulsory voting, registration linked to national records, door to door registration, and weekend/holiday voting. The US didn't have any of those laws. No other country had the same lack of 4 laws as the US, so I expanded my selection of countries to include those with a maximum of one of the law (i.e. 3 "no"). This results in a group of the most comparable countries from the list provided. Given I ranked the orginal design a 4 in truthfulness, I felt this redesign improved the validity of the information by only showing comparable countries. 
 
 Below is the outcome: 
 
