@@ -11,6 +11,8 @@ Below is a sample of my data visualization.
 [Government Debt](/GovDebt.md)
 
 [Voter Turnout](/VoterTurnout.md) 
+
+[Food Waste](/FoodWaste.md)
 ## Links
 Link to the published web site: https://myc1230.github.io/Michelle-s-Viz-Portfolio/ 
 
