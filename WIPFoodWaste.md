@@ -21,7 +21,18 @@ Description of how I will complete the final project.
 ## The Data
 Data sources list and explaination of how I plan to use the data
 Link to the data (either the site or my repos)
+[Plastic Pollution Data](https://ourworldindata.org/plastic-pollution)
+This contains various statistic on plastic pollution. I will be using various data from this page to provide the setup and the conflict to my story. 
 
+specific data
+[Drastic Increase of cumulative plastic production] (https://ourworldindata.org/plastic-pollution#cumulative-production)
+
+[World Population Data](https://ourworldindata.org/world-population-growth#population-growth-by-world-region) 
+I want to show the population growth during the same period as a way to show perspective to the plastic use increase, as part of my story setup. 
+
+[Plastic Lifecycle in 2015] [use] (https://ourworldindata.org/plastic-pollution#plastic-use-by-sector) [Waste](https://ourworldindata.org/plastic-pollution#plastic-waste-by-sector)
+
+[Waste Treatment] (https://ourworldindata.org/plastic-pollution#plastic-disposal-methods) 
 ## Wireframes
 Create sketches that outline the intial thoughths of the final project. 
 optional: include in part 1 of project in whatever method makes the most sense to me. It should be clear enough to be understandable by someone with no context. 
@@ -49,3 +60,15 @@ Describe my interviewees generally. Include any useful direct quotes for each qu
 
 The prof should be able to clearly follow along my progress. There should be enough details to see how I moved from wireframe/story board to user feedback. 
 
+Hope to understand the strength and clairty of my message
+
+My target audience is the general public, as plastic is part of everyone's life. 
+
+Questions: 
+Did you know this information before reading this website? 
+Were you surprised by any of the information? 
+Who do you think is the intended audience of this website? 
+What do you think is the purpose of this website? 
+What did you find confusing? What would you change? 
+What is the first idea/thought that popped into your head when you saw the website? 
+How do you feel after reading these statistics? 
