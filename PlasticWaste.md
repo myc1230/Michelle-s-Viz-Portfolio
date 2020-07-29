@@ -21,9 +21,7 @@ I can do this by promoting awareness and changing my behavior to miniminize usag
 The story will be build using Shorthand. The details below will list out my brainstorming process up till the final product. 
 
 ## The Data
-[Plastic Pollution Data](https://ourworldindata.org/plastic-pollution)
-
-This is my main data source. It contains various statistic on plastic pollution that I want to examine. I will be using various data from this page to provide the details, setup and the conflict to my story. 
+[Plastic Pollution Data: ](https://ourworldindata.org/plastic-pollution) This is my main data source. It contains various statistic on plastic pollution that I want to examine. I will be using various data from this page to provide the details, setup and the conflict to my story. 
 
 Below is a few specific data sets used from the Plastic Pollution Data page:
 
@@ -35,9 +33,7 @@ Below is a few specific data sets used from the Plastic Pollution Data page:
 
 - [Plastic Waste Treatment Methods](https://ourworldindata.org/plastic-pollution#plastic-disposal-methods) 
 
-[World Population Data](https://ourworldindata.org/world-population-growth#population-growth-by-world-region) 
-
-I want to show the population growth during the same period as a way to show perspective to the plastic use increase. This will be part of my story setup. 
+[World Population Data: ](https://ourworldindata.org/world-population-growth#population-growth-by-world-region) I want to show the population growth during the same period as a way to show perspective to the plastic use increase. This will be part of my story setup. 
 
 ## Wireframes and Story outline
 
@@ -75,8 +71,7 @@ As I progressed through the 3 individuals, I did incorporate small changes into 
 
 ## User Feedback
 
-### User 1
-User 1 is a UX designer. 
+### User 1 (UX designer) 
 
 Her first focus was the big paragraph in the beginning, rather than the title. She felt there was too much dense text. If I wasn't there with her, she said she most likley wouldn't have read every word. (Because of this feedback, right after the interview, I added some headers and broke up the text to try to improve readability a bit for the next user.)
 
@@ -86,13 +81,12 @@ The next section is the bar graph and pie chart. She was confused to what the 60
 
 A consistant feedback is there is too much to read. There need to be some type of hierachy or highlighting to help break up the dense text blocks. 
 
-As a side note, she like the wireframe nature of the story, which helped he to focus on the context rather than design. 
+As a side note, she like the wireframe nature of the story, which helped her to focus on the context rather than design. 
 
 After reading the story, she realizes there is a lot of plastic waste and we produce tons more plastic. She notices we make a lot of plastic and then throw a lot away, but is curious to the trend, as the data only focused on 2015. Is it always this bad or is this a growing trend?
 Her first conclusion was "this sucks"; she didn't realize how bad the plastic problem was until seeing these statistics. Her first thought following was curiosity to what we can do to help the problem. So she appreciated the move to call to action section. However, while interested in seeing the call to actions, she didn't think she will likely follow through any of them. She felt because she was a recycler, she didn't think she was part of the problem. (This particular comment stood out to me because it meant my story wasn't persuasive enought to change her mind to act differently.)
 
-### User 2 
-User 2 is a robotic developer. 
+### User 2 (robotic developer)
 
 His first impression is there's a lot of reading. However, the graphs were helpful and effective for showing the message. 
 
@@ -109,8 +103,7 @@ He thought the audience is general, uninformed people. As the story shows very i
 
 His overall feeling after reading the story is that small actions are not going to be enough. Asking people to stop drinked bottled water isn't going to make a significant different, it will take greater awareness and policy change to make an impact.  
 
-### User 3
-User 3 works in healthcare. 
+### User 3 (healthcare)
 
 At first look, he thought the graph axis and title was confusing. He didn't see 2020 on the axis, so wasn't sure what 70 year I was referring to. He couldn't understand the point I was trying to make. It took some reading to understand why I showed population next to plastic production. 
 
@@ -131,21 +124,22 @@ The users all were able to follow and understand the story I was sharing without
 ### Changes already incorporated
 These changes  got incorporated between user interviews based on a previous user's feedback (which is visible in the wireframe above): 
 - I added headers and emphasis on text to cut down on the density of the text and highlight what I am trying to show. 
-- I added more relative comparison to help user understand the scope of a metric. I improved the language of my plastic growth vs poplution growth comparsion, and added the text comparsion for plastic waste vs cruise ships.  
+- I added more relative comparison to help user understand the scope of a metric. I improved the language of my plastic growth vs population growth comparsion, and added the text comparsion for plastic waste vs cruise ships.  
 - I added some text context to the discarded section of the graph to better explain the size of the numbers. 
 
 ### Changes to incorporate
 Below are some changes I will be making in the final story.  
-_General Changes:_
+
+General Changes:
 - break out the text more so it is more easily readable. 
 - reword my paragraphs to better explain the message. For example, if I show a number in the paragraph, either explain it better or have it be visible in the corresponding graphic. (ex. 60% of what, 3% of what?)
 - add better graph titles and show clearer axis labels. For the year axis especially, I need to indicate the latest year of the data. 
 
-_Introduction Section changes:_
+Introduction section changes:
 - Work on the comparision of the plastic production and population trend graph. The difference isn't noticable enough to show the point I'm trying to make. I also need to make it clear both are global comparsion between 1950 and 2020. 
 - Improve the layout to make it clearer that population trend is meant to show perspective for the plastic trend. 
 
-_Conflict/Reality Section Changes:_
+Conflict/Reality section changes:
 - Make the year of the data being examined more obvious, so user realize the transition from 70 years to 2015. And explain 2015 is the latest data we have along with why we are looking at 2015. 
 - I will improve the plastic life cycle to more clearly show how the plastic used become plastic waste to make my point of the short useful life of most plastic. Right now they just appear to be two separate category rather than a part of a cycle. 
 - the pie graph didn't clearly show degree of difference for the types of waste management. I will change it to a bar graph to more clearly indicate the high percentage of discarded waste. 
