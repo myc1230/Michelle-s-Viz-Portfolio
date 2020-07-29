@@ -146,7 +146,7 @@ _Introduction Section changes:_
 - Improve the layout to make it clearer that population trend is meant to show perspective for the plastic trend. 
 
 _Conflict/Reality Section Changes:_
-- Make the year of the data being examined more obvious, so user realize the transition from 70 years to 2015. And explain 2015 is the latest data we have. 
+- Make the year of the data being examined more obvious, so user realize the transition from 70 years to 2015. And explain 2015 is the latest data we have along with why we are looking at 2015. 
 - I will improve the plastic life cycle to more clearly show how the plastic used become plastic waste to make my point of the short useful life of most plastic. Right now they just appear to be two separate category rather than a part of a cycle. 
 - the pie graph didn't clearly show degree of difference for the types of waste management. I will change it to a bar graph to more clearly indicate the high percentage of discarded waste. 
 - add some visual to show the breakdown of Discard plastic waste. 
