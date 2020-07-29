@@ -42,7 +42,7 @@ I want to show the population growth during the same period as a way to show per
 ## Wireframes and Story outline
 
 The mixture of pencil/paper and balsmiq outlines my story as I want the user to experience. 
-![Wireframe and Storyboard](/plastic waste v1.jpg)
+![Wireframe and Storyboard](/plastic waste wireframe.png)
 
 
 ## User research and Interview
