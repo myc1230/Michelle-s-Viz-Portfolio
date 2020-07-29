@@ -1,7 +1,4 @@
 
-TODO: remove WIP from file title
-Remove any instructons for me
-
 -------------------------------------------------
 
 [Return Home](/README.md)
@@ -10,30 +7,39 @@ Remove any instructons for me
 Many of you may remember the video of a marine biologist who removed a plastic straw that was stuck in the nostril of a sea turtle. That situation wasn't an isolated case. The convenience and low cost of single use plastic has a heavy hidden cost. In this project, I want to better understand and show the plastic situation through data, from how much is produced to what it is used for.  
 
 ##  Project Structure
-that out lines the major elements of my story. see chap 8 in Good Charts for story strucuture. 
-I should describe the story arc that I hope to achieve. 
-Talk about anticapted call to action and outline the user stories. 
+The overall story structure for my story is: 
+Intro: Everyone uses plastic constantly. How much plastic is actually used and produced in the world. 
+Conflict/Reality: How is the plastic actually used and what happens to the plastic. The plastic is harming the environment. 
+CTA: There's too much plastic being used and wasted. We can help reduce plastic waste by minimizing our plastic consumption and prompt better behaviors. 
 
-Description of how I will complete the final project. 
+As a reader, I want to understand the impact of my actions so that I can minimize the damages those actions cause. 
+I can do this by promoting awareness and changing my behavior to miniminize usage of single use plastic. 
 
-1. building a story using the data using shorthand. 
+The story will be building using Shorthand. The details below will list out my brainstorming process up till the final product. 
 
 ## The Data
 Data sources list and explaination of how I plan to use the data
 Link to the data (either the site or my repos)
 [Plastic Pollution Data](https://ourworldindata.org/plastic-pollution)
-This contains various statistic on plastic pollution. I will be using various data from this page to provide the setup and the conflict to my story. 
+This is my main data source. It contains various statistic on plastic pollution that I want to examine. I will be using various data from this page to provide the setup and the conflict to my story. 
 
-specific data
-[Drastic Increase of cumulative plastic production] (https://ourworldindata.org/plastic-pollution#cumulative-production)
+Below is a few specific data sets used from the Plastic Pollution Data page:
+
+- [Drastic Increase of cumulative plastic production](https://ourworldindata.org/plastic-pollution#cumulative-production)
+
+- [Plastic Lifecycle in 2015](https://ourworldindata.org/plastic-pollution#plastic-use-by-sector) 
+
+- [Waste](https://ourworldindata.org/plastic-pollution#plastic-waste-by-sector)
+
+- [Waste Treatment](https://ourworldindata.org/plastic-pollution#plastic-disposal-methods) 
 
 [World Population Data](https://ourworldindata.org/world-population-growth#population-growth-by-world-region) 
 I want to show the population growth during the same period as a way to show perspective to the plastic use increase, as part of my story setup. 
 
-[Plastic Lifecycle in 2015] [use] (https://ourworldindata.org/plastic-pollution#plastic-use-by-sector) [Waste](https://ourworldindata.org/plastic-pollution#plastic-waste-by-sector)
+## Wireframes and Story outline
 
-[Waste Treatment] (https://ourworldindata.org/plastic-pollution#plastic-disposal-methods) 
-## Wireframes
+[Wireframe and Storyboard](/plastic waste v1.pdf)
+
 Create sketches that outline the intial thoughths of the final project. 
 optional: include in part 1 of project in whatever method makes the most sense to me. It should be clear enough to be understandable by someone with no context. 
 Wireframe should mimic aspects of outline; and build on the resounds message you want to make clear through your project. 
@@ -72,3 +78,6 @@ What do you think is the purpose of this website?
 What did you find confusing? What would you change? 
 What is the first idea/thought that popped into your head when you saw the website? 
 How do you feel after reading these statistics? 
+
+## Sources
+1 https://www.nps.gov/teachers/classrooms/things_stick_around.htm
