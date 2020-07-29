@@ -3,27 +3,27 @@
 
 [Return Home](/README.md)
 
-# Hidden Cost of Convenience
+# Cost of Convenience: The Hidden Cost of Plastic
 Many of you may remember the video of a marine biologist who removed a plastic straw that was stuck in the nostril of a sea turtle. That situation wasn't an isolated case. The convenience and low cost of single use plastic has a heavy hidden cost. In this project, I want to better understand and show the plastic situation through data, from how much is produced to what it is used for.  
 
 ##  Project Structure
 The overall story structure for my story is: 
 
-Intro: Everyone uses plastic constantly and the amount of plastic being used constantly increases. 
+Introduction: Everyone uses plastic constantly and the amount of plastic being used constantly increases. 
 
-Conflict/Reality: Plastic is used in all areas of people's life and most of them have a short use life, which results in a lot of trash and waste. 
+Conflict/Reality: Plastic is used in all areas of people's life and most of the plastic have a short use life, which results in a lot of trash and waste. 
 
-Resolution/CTA: The problem is bigger than most of us is aware and more than can be solved here. But by raising awareness of how much plastic is being used and wasted, people are more likely to act. We can help reduce plastic waste by minimizing our plastic consumption and prompt better behaviors, and speak up for policies that can make a difference. 
+Resolution/Call to action: The problem is bigger than most of us is aware and more than can be solved here. But by raising awareness of how much plastic is being used and wasted, people are more likely to act. We can help reduce plastic waste by minimizing our plastic consumption and prompt better behaviors, and speak up for policies that can make a difference. 
 
 As a reader, I want to understand the impact of my actions so that I can minimize the damages those actions cause. 
 I can do this by promoting awareness and changing my behavior to miniminize usage of single use plastic. 
 
-The story will be building using Shorthand. The details below will list out my brainstorming process up till the final product. 
+The story will be build using Shorthand. The details below will list out my brainstorming process up till the final product. 
 
 ## The Data
 [Plastic Pollution Data](https://ourworldindata.org/plastic-pollution)
 
-This is my main data source. It contains various statistic on plastic pollution that I want to examine. I will be using various data from this page to provide the setup and the conflict to my story. 
+This is my main data source. It contains various statistic on plastic pollution that I want to examine. I will be using various data from this page to provide the details, setup and the conflict to my story. 
 
 Below is a few specific data sets used from the Plastic Pollution Data page:
 
@@ -37,7 +37,7 @@ Below is a few specific data sets used from the Plastic Pollution Data page:
 
 [World Population Data](https://ourworldindata.org/world-population-growth#population-growth-by-world-region) 
 
-I want to show the population growth during the same period as a way to show perspective to the plastic use increase, as part of my story setup. 
+I want to show the population growth during the same period as a way to show perspective to the plastic use increase. This will be part of my story setup. 
 
 ## Wireframes and Story outline
 
