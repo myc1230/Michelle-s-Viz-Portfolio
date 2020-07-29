@@ -41,8 +41,8 @@ I want to show the population growth during the same period as a way to show per
 ## Wireframes and Story outline
 
 The mixture of pencil/paper and balsmiq outlines my story as I want the user to experience. 
-[Wireframe and Storyboard](/plastic waste v1.pdf)
- 
+![Wireframe and Storyboard](/plastic waste v1.pdf)
+
 
 ## User research and Interview
 
@@ -93,7 +93,34 @@ User 2 is a robotic developer.
 
 His first impression is there's a lot of reading. However, the graphs were helpful and effective for showing the message. 
 
-When looking at the 
+When looking at the two trend lines, the difference doesn't appear as dramatic. One should be linear and the other should be exponential, but that isn't easily visible. 
+
+He liked the stacked chart, and like the 1 to 1 comparsion of the groups and seeing their use and waste. It gives the impression we can reduce packing to decrease waste, as that has the highest consumption. He feels some graphic, such as an arrow between the bars to indicate their relationship. 
+When looking at the pie chart, he felt the info was incomplete. He wanted to better understand how discard plastic is broken out. 
+
+One aspect he found confusing was the population trend line. As it was the only one not talking about plastic, so it didn't fit in. It took him a while to realize the perspective nature of that graphic. 
+
+He had some knoweldge of these statistic before but was surprised by the 3% of waste in nature. It seemed lower than expected, but he feels if I added more context such as the scope of the total weight, it would be clearer. He was also surprised by the amount of incinerated verse discarded plastic, but know recycled was low. He knew about textile waste but was still surprised about it, with the prevelance of fast fashion. 
+
+He thought the audience is general, uninformed people. As the story shows very introductory and non aggressive information to paint a picture of the plastic problem. The high level nature of the story helps people view this as a problem in a neutral way. 
+
+His overall feeling after reading the story is that small actions are not going to be enough. Asking people to stop drinked bottled water isn't going to make a significant different, it will take greater awareness and policy change to make an impact.  
+
+### User 3
+User 3 works in healthcare. 
+
+At first look, he thought the graph axis and title was confusing. He didn't see 2020 on the axis, so wasn't sure what 70 year I was referring to. He couldn't understand the point I was trying to make. It took some reading to understand why I showed population next to plastic production. 
+
+Next up, he looked at the stacked bar chart. He assumed it would be 70 years given the previous graph, so didn't notice it was only for 2015 (which was the latest data point we have). He liked the color used but didn't understand the coorrelation between the two columns. 
+When looking at the bar graph, he expected to see percentages as the graph was hard to read. 
+
+He's overall impression of the story is there is a lot of plastic being used and wasted, and much of it ends up being discarded. He feels if we don't change now, we will continue to increase our plastic usage and waste. 
+
+He thought the audience is governement or industry leader given the industry breakdown in the stacked bar char. 
+
+He was surprised by most of the data since he's never seen them before, and was shocked by the size of some of the numbers. 
+
+He like the simple and clear nature of the story, and wouldn't change anything except adding more recent data. 
 
 ## Changes to Make
 Based on the user feedback, there's a few change I made: 
@@ -101,15 +128,18 @@ Based on the user feedback, there's a few change I made:
 These changes  got incorporated between user interviews based on user feedback: 
 - I added headers and emphasis on text to cut down on the density of the text and highlight what I am trying to show. 
 - I added more relative comparison to help user understand the scope of a metric. I improved the language of my plastic growth vs poplution growth comparsion, and added the text comparsion for plastic waste vs cruise ships.  
+- I added some text context to the discarded section of the graph to better explain the size of the numbers. . 
 
 Changes to make in the final story: 
 - The pie graph didn't clearly show degree of difference for the types of waste management. I will change it to a bar graph to more clearly indicate the high percentage of discarded waste. 
 - I will add better perspective graphic comparison to help users better comprehend the amount of waste there is by relating it to number of cruise ships.
-- I will improve the plastic life cycle to more clearly show how the plastic used become plastic waste to make my point of the short useful life of most plastic. 
+- I will improve the plastic life cycle to more clearly show how the plastic used become plastic waste to make my point of the short useful life of most plastic. Right now they just appear to be two separate category rather than a part of a cycle. 
 - Break out the text more so it is more easily readable. 
-- reword my paragraphs to better explain the message. For example, if I show a number in the paragraph, either explain it better or have it be visible in the corresponding graphic. 
+- reword my paragraphs to better explain the message. For example, if I show a number in the paragraph, either explain it better or have it be visible in the corresponding graphic. (ex. 60% of what, 3% of what?)
 - add better graph titles and show clearer axis labels. For the year axis especially, I need to indicate the latest year of the data. 
-- Work on the comparision of the plastic production and population trend graph. 
+- Work on the comparision of the plastic production and population trend graph. The difference isn't noticable enough to show the point I'm trying to make. I also to make it clear both are global comparsion between 1950 and 2020.   
+- add some visual to show the breakdown of Discard plastic waste. 
+- add more impactful call to action such as government policies or places for furture education. Or focus on the industries that produces the greatest plastic waste. 
 
 ## Additional Sources
 1 https://www.nps.gov/teachers/classrooms/things_stick_around.htm
