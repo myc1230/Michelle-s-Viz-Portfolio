@@ -36,12 +36,13 @@ Below is a few specific data sets used from the Plastic Pollution Data page:
 - [Waste Treatment](https://ourworldindata.org/plastic-pollution#plastic-disposal-methods) 
 
 [World Population Data](https://ourworldindata.org/world-population-growth#population-growth-by-world-region) 
+
 I want to show the population growth during the same period as a way to show perspective to the plastic use increase, as part of my story setup. 
 
 ## Wireframes and Story outline
 
 The mixture of pencil/paper and balsmiq outlines my story as I want the user to experience. 
-![Wireframe and Storyboard](/plastic waste v1.pdf)
+![Wireframe and Storyboard](/plastic waste v1.jpg)
 
 
 ## User research and Interview
