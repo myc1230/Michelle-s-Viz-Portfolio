@@ -132,10 +132,10 @@ These changes  got incorporated between user interviews based on user feedback:
 - I added some text context to the discarded section of the graph to better explain the size of the numbers. . 
 
 Changes to make in the final story: 
-- The pie graph didn't clearly show degree of difference for the types of waste management. I will change it to a bar graph to more clearly indicate the high percentage of discarded waste. 
+- the pie graph didn't clearly show degree of difference for the types of waste management. I will change it to a bar graph to more clearly indicate the high percentage of discarded waste. 
 - I will add better perspective graphic comparison to help users better comprehend the amount of waste there is by relating it to number of cruise ships.
 - I will improve the plastic life cycle to more clearly show how the plastic used become plastic waste to make my point of the short useful life of most plastic. Right now they just appear to be two separate category rather than a part of a cycle. 
-- Break out the text more so it is more easily readable. 
+- break out the text more so it is more easily readable. 
 - reword my paragraphs to better explain the message. For example, if I show a number in the paragraph, either explain it better or have it be visible in the corresponding graphic. (ex. 60% of what, 3% of what?)
 - add better graph titles and show clearer axis labels. For the year axis especially, I need to indicate the latest year of the data. 
 - Work on the comparision of the plastic production and population trend graph. The difference isn't noticable enough to show the point I'm trying to make. I also to make it clear both are global comparsion between 1950 and 2020.   
