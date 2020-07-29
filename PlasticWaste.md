@@ -89,7 +89,7 @@ A consistant feedback is there is too much to read. There need to be some type o
 As a side note, she like the wireframe nature of the story, which helped he to focus on the context rather than design. 
 
 After reading the story, she realizes there is a lot of plastic waste and we produce tons more plastic. She notices we make a lot of plastic and then throw a lot away, but is curious to the trend, as the data only focused on 2015. Is it always this bad or is this a growing trend?
-Her first conclusion was "this sucks"; she didn't realize how bad the plastic problem was until seeing these statistics. Her first thought following was curiosity to what we can do to help the problem. So she appreciated the move to call to action section. However, while interested in seeing the call to actions, she didn't think she will likely follow through any of them. She felt because she was a recycler, she didn't think she was part of the problem. 
+Her first conclusion was "this sucks"; she didn't realize how bad the plastic problem was until seeing these statistics. Her first thought following was curiosity to what we can do to help the problem. So she appreciated the move to call to action section. However, while interested in seeing the call to actions, she didn't think she will likely follow through any of them. She felt because she was a recycler, she didn't think she was part of the problem. (This particular comment stood out to me because it meant my story wasn't persuasive enought to change her mind to act differently.)
 
 ### User 2 
 User 2 is a robotic developer. 
