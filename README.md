@@ -12,7 +12,7 @@ Below is a sample of my data visualization.
 
 [Voter Turnout](/VoterTurnout.md) 
 
-[Food Waste](/FoodWaste.md)
+[Plastic Waste](/PlasticWaste.md)
 ## Links
 Link to the published web site: https://myc1230.github.io/Michelle-s-Viz-Portfolio/ 
 
