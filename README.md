@@ -12,9 +12,9 @@ Below is a sample of my data visualization.
 
 - [Voter Turnout](/VoterTurnout.md) 
 
-- [Plastic Waste](/PlasticWaste.md)
+- [Plastic Waste: Behind the Scene](/PlasticWaste.md)
 
--- [Final Story](https://preview.shorthand.com/S3pFVjdG80A1sRY7)
+- [Plastic Waste: Final Story](https://preview.shorthand.com/S3pFVjdG80A1sRY7)
 
 ## Links
 Link to the published web site: https://myc1230.github.io/Michelle-s-Viz-Portfolio/ 
