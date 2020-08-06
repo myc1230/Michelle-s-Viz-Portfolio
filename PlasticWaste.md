@@ -171,9 +171,9 @@ Outside of the design for the body of the story, most of my design thinking went
 I hope my story can target anyone, as plastic is part of everyone's life. From the research done for the story, I realize the plastic problem is bigger than can be solved by my story or by one reader. But I hope by sharing the story, it will raise awareness and interest in learning more, or at least promote small changes to reduce plastic consumption. Well the problem is obviously bigger than not getting a plastic cup at starbucks, I still believe every bit of reuse or reduce we do can help, even if just a little. 
 
 Given my intended audience is everyone, and based on feedback from my interviewees, I decided to offer different call to actions. 
-For people who know nothing, they can start with the small daily actions. 
-For people who already do small daily actions, they could do the smaller actions that have a big impact, like advocating for more green producers or signing a petition. 
-For everyone who want to learn more, I provided additions resources.  
+- For people who know nothing, they can start with the small daily actions. 
+- For people who already do small daily actions, they could do the smaller actions that have a big impact, like advocating for more green producers or signing a petition. 
+- For everyone who want to learn more, I provided additions resources.  
 
 ### Outcome and Lessons Learned
 I enjoyed the story creation process and trying out new tools. 
@@ -189,10 +189,7 @@ Here is my [final story!](https://preview.shorthand.com/S3pFVjdG80A1sRY7)
 ## All Sources (including information used on shorthand)
 1.  https://www.nps.gov/teachers/classrooms/things_stick_around.htm
 2.  ourworldindata.org: source of all data points unless otherwise noted, specifically:
-
-2.1 https://ourworldindata.org/plastic-pollution
-
-2.2 https://ourworldindata.org/world-population-growth#population-growth-by-world-region 
-
-3 https://www.limepack.eu/blog/environmental-impacts-of-disposable-cups-and-reusable-cups/ 
+2.1. https://ourworldindata.org/plastic-pollution
+2.2. https://ourworldindata.org/world-population-growth#population-growth-by-world-region 
+3. https://www.limepack.eu/blog/environmental-impacts-of-disposable-cups-and-reusable-cups/ 
 
