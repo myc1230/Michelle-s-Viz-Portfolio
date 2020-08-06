@@ -173,13 +173,13 @@ I hope my story can target anyone, as plastic is part of everyone's life. From t
 Given my intended audience is everyone, and based on feedback from my interviewees, I decided to offer different call to actions. 
 - For people who know nothing, they can start with the small daily actions. 
 - For people who already do small daily actions, they could do the smaller actions that have a big impact, like advocating for more green producers or signing a petition. 
-- For everyone who want to learn more, I provided additions resources.  
+- For everyone who want to learn more, I provided additional resources.  
 
 ### Outcome and Lessons Learned
-I enjoyed the story creation process and trying out new tools. 
+I enjoyed the entire story creation process, from wireframing to the final design, and trying out new tools. 
 I learned tableau wasn't as easy to use as I hoped and there is so much to learn about it! 
 I learned what I can easily picture in my head or draw out takes much longer to recreate digitially. 
-I learned the importance of creating a wireframe and getting user feedbacks. The wireframe ensured I know the story I wanted to tell. The user feedbacks was critical in helping me verify my story was clear and projecting the right message. 
+I learned the importance of creating a wireframe and getting user feedbacks. The wireframe ensured I knew the story I wanted to tell. The user feedbacks was critical in helping me verify my story was clear and projecting the right message. 
 
 ## Final Story
 Now, to end the suspence...
