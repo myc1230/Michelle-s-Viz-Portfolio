@@ -187,9 +187,12 @@ Now, to end the suspence...
 Here is my [final story!](https://preview.shorthand.com/S3pFVjdG80A1sRY7)
 
 ## All Sources (including information used on shorthand)
-1.  https://www.nps.gov/teachers/classrooms/things_stick_around.htm
-2.  ourworldindata.org: source of all data points unless otherwise noted, specifically:
-- https://ourworldindata.org/plastic-pollution
-- https://ourworldindata.org/world-population-growth#population-growth-by-world-region 
-3. https://www.limepack.eu/blog/environmental-impacts-of-disposable-cups-and-reusable-cups/ 
+1. [Things Stick around](https://www.nps.gov/teachers/classrooms/things_stick_around.htm) 
+2. [Our World In Data](https://ourworldindata.org): source of all data points unless otherwise noted. Links used specifically:
+- [Plastic Pollution](https://ourworldindata.org/plastic-pollution) 
+- [World Population](https://ourworldindata.org/world-population-growth#population-growth-by-world-region) 
+3. [Environmental Impact of disposable cups](https://www.limepack.eu/blog/environmental-impacts-of-disposable-cups-and-reusable-cups/) 
+4. [How much does a cruise ship weight?](https://boatinggeeks.com/how-much-does-a-cruise-ship-weigh/)
+
+
 
