@@ -184,7 +184,7 @@ I learned the importance of creating a wireframe and getting user feedbacks. The
 ## Final Story
 Now, to end the suspence...
 
-Here is my [final story!](https://preview.shorthand.com/S3pFVjdG80A1sRY7)
+Here is my [final story!](https://carnegiemellon.shorthandstories.com/cost-of-convenience/index.html)
 
 ## All Sources (including information used on shorthand)
 1. [Things Stick around](https://www.nps.gov/teachers/classrooms/things_stick_around.htm) 
