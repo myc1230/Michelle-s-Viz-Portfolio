@@ -8,13 +8,14 @@ From this course, I hope to learn how to take the often immense amount of data w
 ## Portfolio
 Below is a sample of my data visualization. 
 
-[Government Debt](/GovDebt.md)
+- [Government Debt](/GovDebt.md)
 
-[Voter Turnout](/VoterTurnout.md) 
+- [Voter Turnout](/VoterTurnout.md) 
 
-[Plastic Waste](/PlasticWaste.md)
+- [Plastic Waste](/PlasticWaste.md)
 
-[Final Story](https://preview.shorthand.com/S3pFVjdG80A1sRY7)
+-- [Final Story](https://preview.shorthand.com/S3pFVjdG80A1sRY7)
+
 ## Links
 Link to the published web site: https://myc1230.github.io/Michelle-s-Viz-Portfolio/ 
 
