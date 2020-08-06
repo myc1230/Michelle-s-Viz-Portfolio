@@ -189,7 +189,7 @@ Here is my [final story!](https://preview.shorthand.com/S3pFVjdG80A1sRY7)
 ## All Sources (including information used on shorthand)
 1.  https://www.nps.gov/teachers/classrooms/things_stick_around.htm
 2.  ourworldindata.org: source of all data points unless otherwise noted, specifically:
-2.1. https://ourworldindata.org/plastic-pollution
-2.2. https://ourworldindata.org/world-population-growth#population-growth-by-world-region 
+- https://ourworldindata.org/plastic-pollution
+- https://ourworldindata.org/world-population-growth#population-growth-by-world-region 
 3. https://www.limepack.eu/blog/environmental-impacts-of-disposable-cups-and-reusable-cups/ 
 
