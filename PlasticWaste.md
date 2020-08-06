@@ -151,14 +151,16 @@ Resolution/Call to Action Section changes:
 
 ## Final Revisions
 After taking the user feedbacks and coming up with changes to incorporate, I started building the final product: a story on Shorthand. 
-It was relatively easy to build the story by following the initial wireframe and making updates directly into shorthand. I really appreciate how helpful a wireframe is, as it helps me to clarify my thoughts with  minimal design. If I started with shorthand, the process may have been more difficult. 
+It was relatively easy to build the story by following the initial wireframe and making updates directly into shorthand. From this process, I learned to appreciate how helpful a wireframe is, as it helps me clarify my thoughts with minimal design work. If I started with shorthand, the process may have been more difficult. 
 
 ### Challenges Encountered
-I know the story I wanted to tell, so it wasn't hard for me to tell the story or show the relevant data. What I found most challenging with the building the story ended up being technical issues and finding non copy righted picture. 
+I know the story I wanted to tell, so it wasn't hard for me to tell the story or show the relevant data in shorthand. What I found most challenging with  building the story ended up being technical issues and finding non copyrighted picture. 
 
-Getting the right format and output on shorthand and on the individual graphs took a lot of trial and error to get right to the outcome I wanted. I wanted to try out a new tool to creat a infographic, but none of the online tools offered the output I wanted. So I ended up creating my own in Balsmic.  
+Getting the right format and output on shorthand and on the individual graphs took a lot of trial and error to achieve the outcome I wanted. I wanted to try out a new tool to creat an infographic, but none of the online tools offered the output I wanted. So I ended up creating my own in Balsmic.  
 
-It was surprising difficult to find meaningful pictures that supports my story and is not copyrighted. (I didn't realize all the google images I used before were copyrighted!) Partically due to this and because I didn't want to clutter my story, I limited images to the title page and the call to action section, since I thought images had the most impact there. Whereas, I kept the body of my story image free, since I didn't want to distract from the information, graphs, and infographics I created. Outside of the design for the body of the story, most of my design thinking went into those few pictures. I used a picture of a duck stuck in a plastic pack ring to show the cost of our plastic usage. For the last three pictures in the call to action section, I wanted to show the severity of the waste, but also offer hope and potential reward by showing a happy sea turtle next to the actions the reader can do. I hope the juxposition of the plastic litter and the happy sea turtle will resonate with the readers. 
+It was surprising difficult to find meaningful pictures that supports my story and is not copyrighted. (I didn't realize all the google images I used before were copyrighted!) Partically due to this and because I didn't want to clutter my story, I limited images to the title page and the call to action section, since I thought the images have the most impact there. Whereas, I kept the body of my story image free, since I didn't want to distract from the information, graphs, and infographics I created. 
+
+Outside of the design for the body of the story, most of my design thinking went into those few pictures. I used a picture of a duck stuck in a plastic pack ring to show the cost of our plastic usage. For the last three pictures in the call to action section, I wanted to show the severity of the waste, but also offer hope and potential reward by showing a happy sea turtle next to the actions the reader can do. I hope the juxposition of the plastic litter and the happy sea turtle will resonate with the readers, so they could "see" the before and after of following the call to actions.  
 
 ### Tools Used
 - Shorthand was used to create the story
@@ -166,12 +168,18 @@ It was surprising difficult to find meaningful pictures that supports my story a
 - Balsmic was used to create the infographics and the initial wireframe
 
 ### Targeted Audience
-I hope my story can target anyone, as plastic is part of everyone's life. I realize the plastic problem is bigger than can be solved by my story or by one person. But I hope by sharing the story, it will raise awareness and interest in learning more, or at least promote small changes to reduce plastic consumption. Well the problem is obviously bigger than not getting a plastic cup at starbucks, I still believe every bit of reuse or reduce we do can help, even if just a little. 
+I hope my story can target anyone, as plastic is part of everyone's life. From the research done for the story, I realize the plastic problem is bigger than can be solved by my story or by one reader. But I hope by sharing the story, it will raise awareness and interest in learning more, or at least promote small changes to reduce plastic consumption. Well the problem is obviously bigger than not getting a plastic cup at starbucks, I still believe every bit of reuse or reduce we do can help, even if just a little. 
 
-Given my intended audience is everyone, and based on feedback from my interviewees, I decided to offer different call to action. For people who know nothing, they can start with the small daily actions. For people who already do small daily actions, they could do the smaller actions that have a big impact, like advocating for more green producers or signing a petition. For everyone who want to learn more, there are additions resources provided.  
+Given my intended audience is everyone, and based on feedback from my interviewees, I decided to offer different call to actions. 
+For people who know nothing, they can start with the small daily actions. 
+For people who already do small daily actions, they could do the smaller actions that have a big impact, like advocating for more green producers or signing a petition. 
+For everyone who want to learn more, I provided additions resources.  
 
 ### Outcome and Lessons Learned
-Nonetheless, I enjoyed the story creation process and trying out new tools. I learned tableau wasn't as easy to use as I hoped and there is so much to learn about it! I learned what I can easily picture in my hand or draw out, takes much longer to recreate digitially. I learned the importance of creating a wireframe and getting user feedbacks. The user feedbacks was critical in helping me ensure my story was clear and saying the right message. 
+I enjoyed the story creation process and trying out new tools. 
+I learned tableau wasn't as easy to use as I hoped and there is so much to learn about it! 
+I learned what I can easily picture in my head or draw out takes much longer to recreate digitially. 
+I learned the importance of creating a wireframe and getting user feedbacks. The wireframe ensured I know the story I wanted to tell. The user feedbacks was critical in helping me verify my story was clear and projecting the right message. 
 
 ## Final Story
 Now, to end the suspence...
@@ -181,7 +189,10 @@ Here is my [final story!](https://preview.shorthand.com/S3pFVjdG80A1sRY7)
 ## All Sources (including information used on shorthand)
 1.  https://www.nps.gov/teachers/classrooms/things_stick_around.htm
 2.  ourworldindata.org: source of all data points unless otherwise noted, specifically:
+
 2.1 https://ourworldindata.org/plastic-pollution
+
 2.2 https://ourworldindata.org/world-population-growth#population-growth-by-world-region 
+
 3 https://www.limepack.eu/blog/environmental-impacts-of-disposable-cups-and-reusable-cups/ 
 
